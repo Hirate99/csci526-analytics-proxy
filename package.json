@@ -1,0 +1,14 @@
+{
+  "name": "csci526-analytics-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "itty-router": "^5.0.18"
+  }
+}
